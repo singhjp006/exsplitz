@@ -1,0 +1,2 @@
+# exsplitz
+Keeping in mind the daily expenses, transportation cost is very high. We compared the current ride-sharing apps like Uber &amp; Lyft, but the cost is comparatively same as the taxi/cab. We got an idea of making real-time ridesharing (instant ridesharing) that arranges one-time shared rides on very short notice if a person who wants a ride is on the way or near to the person who is looking wants to give a ride and the destination is on the way. Basically, everyone who share the ride, they just split the fuel expenses.
