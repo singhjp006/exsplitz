@@ -1,0 +1,32 @@
+[02-Dec-2016 23:09:24 UTC] PHP Warning:  include(/db/dbconnect.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 3
+[02-Dec-2016 23:09:24 UTC] PHP Warning:  include(): Failed opening '/db/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/profile-setting.php on line 3
+[02-Dec-2016 23:09:24 UTC] PHP Warning:  include(/db/functions.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 4
+[02-Dec-2016 23:09:24 UTC] PHP Warning:  include(): Failed opening '/db/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/profile-setting.php on line 4
+[02-Dec-2016 23:09:24 UTC] PHP Fatal error:  Call to undefined function getUserinfo() in /home/f6team8/public_html/profile-setting.php on line 7
+[02-Dec-2016 23:09:59 UTC] PHP Warning:  include(../db/dbconnect.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 3
+[02-Dec-2016 23:09:59 UTC] PHP Warning:  include(../db/dbconnect.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 3
+[02-Dec-2016 23:09:59 UTC] PHP Warning:  include(): Failed opening '../db/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/profile-setting.php on line 3
+[02-Dec-2016 23:09:59 UTC] PHP Warning:  include(../db/functions.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 4
+[02-Dec-2016 23:09:59 UTC] PHP Warning:  include(../db/functions.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 4
+[02-Dec-2016 23:09:59 UTC] PHP Warning:  include(): Failed opening '../db/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/profile-setting.php on line 4
+[02-Dec-2016 23:09:59 UTC] PHP Fatal error:  Call to undefined function getUserinfo() in /home/f6team8/public_html/profile-setting.php on line 7
+[02-Dec-2016 23:27:12 UTC] PHP Warning:  include(/db/dbconnect.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 10
+[02-Dec-2016 23:27:12 UTC] PHP Warning:  include(): Failed opening '/db/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/profile-setting.php on line 10
+[02-Dec-2016 23:27:12 UTC] PHP Warning:  include(/db/functions.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 11
+[02-Dec-2016 23:27:12 UTC] PHP Warning:  include(): Failed opening '/db/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/profile-setting.php on line 11
+[02-Dec-2016 23:27:12 UTC] PHP Fatal error:  Call to undefined function getUserinfo() in /home/f6team8/public_html/profile-setting.php on line 14
+[02-Dec-2016 23:37:41 UTC] PHP Warning:  include(/db/dbconnect.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 11
+[02-Dec-2016 23:37:41 UTC] PHP Warning:  include(): Failed opening '/db/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/profile-setting.php on line 11
+[02-Dec-2016 23:37:41 UTC] PHP Warning:  include(/db/functions.php): failed to open stream: No such file or directory in /home/f6team8/public_html/profile-setting.php on line 12
+[02-Dec-2016 23:37:41 UTC] PHP Warning:  include(): Failed opening '/db/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/profile-setting.php on line 12
+[02-Dec-2016 23:37:41 UTC] PHP Fatal error:  Call to undefined function getUserinfo() in /home/f6team8/public_html/profile-setting.php on line 15
+[03-Dec-2016 04:21:00 UTC] PHP Fatal error:  Call to a member function fetch_all() on null in /home/f6team8/public_html/profile.php on line 6
+[03-Dec-2016 04:22:27 UTC] PHP Fatal error:  Call to a member function fetch_all() on null in /home/f6team8/public_html/profile.php on line 6
+[03-Dec-2016 04:22:31 UTC] PHP Fatal error:  Call to a member function fetch_all() on null in /home/f6team8/public_html/profile.php on line 6
+[03-Dec-2016 04:23:11 UTC] PHP Fatal error:  Call to a member function fetch_all() on null in /home/f6team8/public_html/profile.php on line 6
+[03-Dec-2016 04:23:33 UTC] PHP Fatal error:  Call to a member function fetch_all() on null in /home/f6team8/public_html/profile.php on line 6
+[03-Dec-2016 04:24:21 UTC] PHP Fatal error:  Call to a member function fetch_all() on null in /home/f6team8/public_html/profile.php on line 6
+[03-Dec-2016 04:27:01 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/f6team8/public_html/profile.php on line 6
+[03-Dec-2016 04:28:00 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/f6team8/public_html/profile.php on line 6
+[03-Dec-2016 04:38:47 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/f6team8/public_html/includes/profile-main-dashboard.php on line 21
+[03-Dec-2016 04:54:49 UTC] PHP Fatal error:  Call to undefined function getrequestedResuts() in /home/f6team8/public_html/includes/profile-main-dashboard.php on line 19

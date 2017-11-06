@@ -1,0 +1,33 @@
+[27-Nov-2016 01:28:34 UTC] PHP Warning:  include(db/dbconnect.php): failed to open stream: No such file or directory in /home/f6team8/public_html/requests/verify.php on line 2
+[27-Nov-2016 01:28:34 UTC] PHP Warning:  include(db/dbconnect.php): failed to open stream: No such file or directory in /home/f6team8/public_html/requests/verify.php on line 2
+[27-Nov-2016 01:28:34 UTC] PHP Warning:  include(): Failed opening 'db/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/requests/verify.php on line 2
+[27-Nov-2016 01:28:34 UTC] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/f6team8/public_html/requests/verify.php on line 5
+[27-Nov-2016 01:28:34 UTC] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/f6team8/public_html/requests/verify.php on line 6
+[27-Nov-2016 01:28:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/f6team8/public_html/requests/verify.php on line 8
+[27-Nov-2016 01:28:34 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/f6team8/public_html/requests/verify.php on line 8
+[27-Nov-2016 01:30:12 UTC] PHP Warning:  include(..db/dbconnect.php): failed to open stream: No such file or directory in /home/f6team8/public_html/requests/verify.php on line 2
+[27-Nov-2016 01:30:12 UTC] PHP Warning:  include(..db/dbconnect.php): failed to open stream: No such file or directory in /home/f6team8/public_html/requests/verify.php on line 2
+[27-Nov-2016 01:30:12 UTC] PHP Warning:  include(): Failed opening '..db/dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team8/public_html/requests/verify.php on line 2
+[27-Nov-2016 01:30:12 UTC] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/f6team8/public_html/requests/verify.php on line 5
+[27-Nov-2016 01:30:12 UTC] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/f6team8/public_html/requests/verify.php on line 6
+[27-Nov-2016 01:30:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/f6team8/public_html/requests/verify.php on line 8
+[27-Nov-2016 01:30:12 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/f6team8/public_html/requests/verify.php on line 8
+[27-Nov-2016 01:36:27 UTC] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/f6team8/public_html/requests/verify.php on line 5
+[27-Nov-2016 01:36:27 UTC] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/f6team8/public_html/requests/verify.php on line 6
+[27-Nov-2016 01:36:27 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/f6team8/public_html/requests/verify.php on line 8
+[27-Nov-2016 01:39:23 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/f6team8/public_html/requests/verify.php on line 5
+[27-Nov-2016 01:39:23 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/f6team8/public_html/requests/verify.php on line 6
+[27-Nov-2016 01:39:23 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/f6team8/public_html/requests/verify.php on line 8
+[27-Nov-2016 01:40:29 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/f6team8/public_html/requests/verify.php on line 8
+[27-Nov-2016 01:42:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team8/public_html/requests/verify.php:10) in /home/f6team8/public_html/requests/verify.php on line 19
+[27-Nov-2016 22:17:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team8/public_html/db/dbconnect.php on line 8
+[27-Nov-2016 23:03:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team8/public_html/db/dbconnect.php on line 8
+[28-Nov-2016 02:34:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team8/public_html/db/dbconnect.php on line 8
+[28-Nov-2016 02:35:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team8/public_html/db/dbconnect.php on line 8
+[28-Nov-2016 02:39:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team8/public_html/db/dbconnect.php on line 8
+[28-Nov-2016 02:39:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team8/public_html/db/dbconnect.php on line 8
+[28-Nov-2016 02:39:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team8/public_html/db/dbconnect.php on line 8
+[03-Dec-2016 05:11:35 UTC] PHP Fatal error:  Call to undefined function sendEmailReset() in /home/f6team8/public_html/requests/profile-changes.php on line 51
+[03-Dec-2016 05:12:13 UTC] PHP Fatal error:  Call to undefined function sendEmailReset() in /home/f6team8/public_html/requests/profile-changes.php on line 51
+[03-Dec-2016 15:36:16 UTC] PHP Fatal error:  Call to undefined function sendEmailReset() in /home/f6team8/public_html/requests/profile-changes.php on line 51
+[04-Dec-2016 22:00:32 UTC] PHP Fatal error:  Call to undefined function sendEmailReset() in /home/f6team8/public_html/requests/profile-changes.php on line 51
